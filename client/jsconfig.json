@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"paths": {
+			"@api": ["./src/api"],
+			"@assets": ["./src/assets"],
+			"@components": ["./src/components"],
+			"@routes": ["./src/helpers/routes"],
+			"@choices": ["./src/helpers/choices"],
+			"@hooks": ["./src/hooks"],
+			"@pages": ["./src/pages"],
+			"@services": ["./src/services"],
+			"@styles": ["./src/styles"],
+			"@utilities": ["./src/utilities"]
+		}
+	}
+}
